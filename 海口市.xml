@@ -1,0 +1,5884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-20T14:03:24Z" areas="2023-01-20T09:59:38Z"/>
+
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="琼州大桥"/>
+    <tag k="name:en" v="Qiongzhou Bridge"/>
+    <tag k="name:zh" v="琼州大桥"/>
+    <tag k="ref" v="S111"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="wikidata" v="Q12066664"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海富路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金垦路"/>
+    <tag k="name:en" v="Jinken Road"/>
+    <tag k="name:zh" v="金垦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="世纪大桥"/>
+    <tag k="name:en" v="Century Bridge"/>
+    <tag k="name:zh" v="世纪大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="风向东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="风向东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="国贸路 - Guomao Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海垦路"/>
+    <tag k="name:en" v="Haiken Road"/>
+    <tag k="name:zh" v="海垦路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="东沙路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="龙丰路"/>
+    <tag k="name:en" v="Longfeng Road"/>
+    <tag k="name:zh" v="龙丰路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Longkun North Road"/>
+    <tag k="name:zh" v="龙昆北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙昆南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金龙路"/>
+    <tag k="name:en" v="Jinlong Road"/>
+    <tag k="name:zh" v="金龙路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="明珠路"/>
+    <tag k="name:en" v="Mingzhu Road"/>
+    <tag k="name:zh" v="明珠路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="212省道"/>
+    <tag k="name:en" v="212 Provincial Highway"/>
+    <tag k="name:zh" v="212省道"/>
+    <tag k="ref" v="S212"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="212省道 - 212 Provincial Highway"/>
+    <tag k="name:en" v="212 Provincial Highway"/>
+    <tag k="name:zh" v="212省道"/>
+    <tag k="ref" v="S212"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙昆南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海府路"/>
+    <tag k="name:en" v="Haifu Road"/>
+    <tag k="name:zh" v="海府路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙昆南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海秀中路"/>
+    <tag k="name:en" v="Haixiu Middle Road"/>
+    <tag k="name:zh" v="海秀中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海秀中路"/>
+    <tag k="name:en" v="Haixiu Middle Road"/>
+    <tag k="name:zh" v="海秀中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海秀东路"/>
+    <tag k="name:en" v="Haixiu East Road"/>
+    <tag k="name:zh" v="海秀东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="博爱南路"/>
+    <tag k="name:en" v="Bo'ai South Road"/>
+    <tag k="name:zh" v="博爱北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="博爱北路 - Bo'ai North Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="新埠大道"/>
+    <tag k="name:en" v="Xinbu Avenue"/>
+    <tag k="name:zh" v="新埠大道"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西苑路"/>
+    <tag k="name:en" v="Xiyuan Road"/>
+    <tag k="name:zh" v="西苑路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="193县道 - 193 Xian Dao"/>
+    <tag k="name:en" v="193 County Road"/>
+    <tag k="name:zh" v="193县道"/>
+    <tag k="ref" v="X193"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="193县道 - 193 Xian Dao"/>
+    <tag k="name:en" v="193 County Road"/>
+    <tag k="name:zh" v="193县道"/>
+    <tag k="ref" v="X193"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="茉莉路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="玉沙路"/>
+    <tag k="name:en" v="Yusha Road"/>
+    <tag k="name:zh" v="玉沙路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="148 县道"/>
+    <tag k="name:en" v="148 County Road"/>
+    <tag k="name:zh" v="148 县道"/>
+    <tag k="ref" v="X148"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="琼山大道"/>
+    <tag k="name:en" v="Qiongshan Avenue"/>
+    <tag k="name:zh" v="琼山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="顺达路"/>
+    <tag k="name:en" v="Shunda Road"/>
+    <tag k="name:zh" v="顺达路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丽晶路"/>
+    <tag k="name:en" v="Lijing Road"/>
+    <tag k="name:zh" v="丽晶路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="人民大桥"/>
+    <tag k="name:en" v="Renmin Bridge"/>
+    <tag k="name:zh" v="人民大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海甸五东路"/>
+    <tag k="name:en" v="Haidian 5th East Road"/>
+    <tag k="name:zh" v="海甸五东路"/>
+    <tag k="name:zh_pinyin" v="Haidian Wu Dong Lu"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="侨中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸二西路"/>
+    <tag k="name:en" v="Haidian 2nd West Road"/>
+    <tag k="name:zh" v="海甸二西路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="世纪大桥"/>
+    <tag k="name:en" v="Century Bridge"/>
+    <tag k="name:zh" v="世纪大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民大道"/>
+    <tag k="name:en" v="Renmin Avenue"/>
+    <tag k="name:zh" v="人民大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="世纪大桥"/>
+    <tag k="name:en" v="Century Bridge"/>
+    <tag k="name:zh" v="世纪大桥"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikipedia" v="en:Haikou Century Bridge"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中山南路"/>
+    <tag k="name:en" v="Zhongshan South Road"/>
+    <tag k="name:zh" v="中山南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="公园路"/>
+    <tag k="name:en" v="Gongyuan Road"/>
+    <tag k="name:zh" v="公园路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大同路"/>
+    <tag k="name:en" v="Datong Road"/>
+    <tag k="name:zh" v="大同路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大同路"/>
+    <tag k="name:en" v="Datong Road"/>
+    <tag k="name:zh" v="大同路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海府路"/>
+    <tag k="name:en" v="Haifu Road"/>
+    <tag k="name:zh" v="海府路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸三东路"/>
+    <tag k="name:en" v="Haidian 3rd East Road"/>
+    <tag k="name:zh" v="海甸三东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸三西路"/>
+    <tag k="name:en" v="Haidian 3rd West Road"/>
+    <tag k="name:zh" v="海甸三西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="环湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="蓝天路"/>
+    <tag k="name:en" v="Lantian Road"/>
+    <tag k="name:zh" v="蓝天路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="149县道"/>
+    <tag k="name:en" v="149 County Road"/>
+    <tag k="name:zh" v="149 县道"/>
+    <tag k="ref" v="X149"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4.5"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="149县道"/>
+    <tag k="name:en" v="149 County Road"/>
+    <tag k="name:zh" v="149 县道"/>
+    <tag k="ref" v="X149"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4.5"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="149县道"/>
+    <tag k="name:en" v="149 County Road"/>
+    <tag k="name:zh" v="149 县道"/>
+    <tag k="ref" v="X149"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4.5"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="白龙北路"/>
+    <tag k="name:en" v="Bailong North Road"/>
+    <tag k="name:zh" v="白龙北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="name" v="白龙北路"/>
+    <tag k="name:en" v="Bailong North Road"/>
+    <tag k="name:zh" v="白龙北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="白龙北路"/>
+    <tag k="name:en" v="Bailong North Road"/>
+    <tag k="name:zh" v="白龙北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文明西路"/>
+    <tag k="name:en" v="Wenming Middle Road"/>
+    <tag k="name:zh" v="文明西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长滨路"/>
+    <tag k="name:en" v="Changbin Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;Bing Sat"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道"/>
+    <tag k="name:en" v="225 National Road"/>
+    <tag k="name:zh" v="225国道"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing Sat"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="粵海大道"/>
+    <tag k="name:en" v="Yuehai Avenue"/>
+    <tag k="name:zh" v="粵海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing Sat"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道 - 海秀西路 - 225 National Road - Haisheng Road"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道 - 海秀西路 - 225 National Road - Haisheng Road"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道 - 海秀西路 - 225 National Road - Haisheng Road"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道 - 海秀西路 - 225 National Road - Haisheng Road"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="创业路"/>
+    <tag k="name:en" v="Chuangye Road"/>
+    <tag k="name:zh" v="创业路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道 - 海秀西路 - 225 National Road - Haisheng Road"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道 - 海秀西路 - 225 National Road - Haisheng Road"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="创业路"/>
+    <tag k="name:en" v="Chuangye Road"/>
+    <tag k="name:zh" v="创业路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海港路"/>
+    <tag k="name:en" v="Haigang Road"/>
+    <tag k="name:zh" v="海港路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="秀英大道 - Xiuying Avenue"/>
+    <tag k="name:en" v="Xiuying Avenue"/>
+    <tag k="name:zh" v="秀英大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="X153"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丽晶路"/>
+    <tag k="name:en" v="Lijing Road"/>
+    <tag k="name:zh" v="丽晶路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="秀华路"/>
+    <tag k="name:en" v="Xiuhua Road"/>
+    <tag k="name:zh" v="秀华路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="秀英大道"/>
+    <tag k="name:en" v="Xiuying Avenue"/>
+    <tag k="name:zh" v="秀英大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="X153"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="滨贸路"/>
+    <tag k="name:en" v="Binmao Road"/>
+    <tag k="name:zh" v="滨贸路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="滨贸路"/>
+    <tag k="name:en" v="Binmao Road"/>
+    <tag k="name:zh" v="滨贸路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="223国道 - 海秀西路 - 223 National Road"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="海榆大道"/>
+    <tag k="name:en" v="Haiyu Avenue"/>
+    <tag k="name:zh" v="海榆大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="海榆大道"/>
+    <tag k="name:en" v="Haiyu Avenue"/>
+    <tag k="name:zh" v="海榆大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="琼山大道"/>
+    <tag k="name:en" v="Qiongshan Avenue"/>
+    <tag k="name:zh" v="琼山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="琼山大道 - Qiong Shan Da Dao"/>
+    <tag k="name:en" v="Qiong Shan Avenue"/>
+    <tag k="name:zh" v="琼山大道"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="琼山大道"/>
+    <tag k="name:en" v="Qiongshan Avenue"/>
+    <tag k="name:zh" v="琼山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="顺达路"/>
+    <tag k="name:en" v="Shunda Road"/>
+    <tag k="name:zh" v="顺达路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="琼山大道"/>
+    <tag k="name:en" v="Qiongshan Avenue"/>
+    <tag k="name:zh" v="琼山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼州大道"/>
+    <tag k="name:en" v="Qiongzhou Avenue"/>
+    <tag k="name:zh" v="琼州大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼州大道 - Qiongzhou Avenue"/>
+    <tag k="name:en" v="Qiongzhou Avenue"/>
+    <tag k="name:zh" v="琼州大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔西路"/>
+    <tag k="name:en" v="Fengxiang West Road"/>
+    <tag k="name:zh" v="凤翔西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中山南路"/>
+    <tag k="name:en" v="Zhongshan South Road"/>
+    <tag k="name:zh" v="中山南路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中山南路"/>
+    <tag k="name:en" v="Zhongshan South Road"/>
+    <tag k="name:zh" v="中山南路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="中山南路"/>
+    <tag k="name:en" v="Zhongshan South Road"/>
+    <tag k="name:zh" v="中山南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔西路"/>
+    <tag k="name:en" v="Fengxiang West Road"/>
+    <tag k="name:zh" v="凤翔西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼文大道"/>
+    <tag k="name:en" v="Qiongwen Avenue"/>
+    <tag k="name:zh" v="琼文大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海岸路"/>
+    <tag k="name:en" v="Hai'an Road"/>
+    <tag k="name:zh" v="海岸路"/>
+    <tag k="name:zh_pinyin" v="Hai'an Lu"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世纪大道"/>
+    <tag k="name:en" v="Century Avenue"/>
+    <tag k="name:zh" v="世纪大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="德利路"/>
+    <tag k="name:en" v="Deli Road"/>
+    <tag k="name:zh" v="德利路"/>
+    <tag k="name:zh_pinyin" v="Deli Lu"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="胜景西路"/>
+    <tag k="name:en" v="Shengjing West Road"/>
+    <tag k="name:zh" v="胜景西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海达路"/>
+    <tag k="name:en" v="Haida Road"/>
+    <tag k="name:zh" v="海达路"/>
+    <tag k="name:zh_pinyin" v="Hai Da Lu"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="邦墩西路"/>
+    <tag k="name:en" v="Bangdun West Road"/>
+    <tag k="name:zh" v="邦墩西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海甸五西路"/>
+    <tag k="name:en" v="Haidian 5th West Road"/>
+    <tag k="name:zh" v="海甸五西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="万恒路"/>
+    <tag k="name:en" v="Wanheng Road"/>
+    <tag k="name:zh" v="万恒路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="航海路"/>
+    <tag k="name:en" v="Hanghai Road"/>
+    <tag k="name:zh" v="航海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海甸六西路"/>
+    <tag k="name:en" v="Haidian 6th West Road"/>
+    <tag k="name:zh" v="海甸六西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="怡心路"/>
+    <tag k="name:en" v="Yixin Road"/>
+    <tag k="name:zh" v="怡心路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海昌路"/>
+    <tag k="name:en" v="Haichang Road"/>
+    <tag k="name:zh" v="海昌路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="安民路"/>
+    <tag k="name:en" v="Anmin Road"/>
+    <tag k="name:zh" v="安民路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海韵东路"/>
+    <tag k="name:en" v="Haiyun East Road"/>
+    <tag k="name:zh" v="海韵东路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="福安路"/>
+    <tag k="name:en" v="Fu'an Road"/>
+    <tag k="name:zh" v="福安路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海虹路"/>
+    <tag k="name:en" v="Haihong Road"/>
+    <tag k="name:zh" v="海虹路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="云翮北路"/>
+    <tag k="name:en" v="Yunhe North Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海彤路"/>
+    <tag k="name:en" v="Haitong Road"/>
+    <tag k="name:zh" v="海彤路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海韵中路"/>
+    <tag k="name:en" v="Haiyun Middle Road"/>
+    <tag k="name:zh" v="海韵中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碧海大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海甸四东路"/>
+    <tag k="name:en" v="Haidian 4th East Road"/>
+    <tag k="name:zh" v="海甸四东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="世纪大桥"/>
+    <tag k="name:en" v="Century Bridge"/>
+    <tag k="name:zh" v="世纪大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="世纪大桥"/>
+    <tag k="name:en" v="Century Bridge"/>
+    <tag k="name:zh" v="世纪大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海甸五西路"/>
+    <tag k="name:en" v="Haidian 5th West Road"/>
+    <tag k="name:zh" v="海甸五西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸五西路"/>
+    <tag k="name:en" v="Haidian 5th West Road"/>
+    <tag k="name:zh" v="海甸五西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="世纪大道"/>
+    <tag k="name:en" v="Century Avenue"/>
+    <tag k="name:zh" v="世纪大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="世纪公园三横路"/>
+    <tag k="name:en" v="Shiji Gongyuan 3rd Cross Street"/>
+    <tag k="name:zh" v="世纪公园三横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="世纪公园二横路"/>
+    <tag k="name:en" v="Shiji Gongyuan 2nd Cross Street"/>
+    <tag k="name:zh" v="世纪公园二横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="世纪公园二横路"/>
+    <tag k="name:en" v="Shiji Gongyuan 2nd Cross Street"/>
+    <tag k="name:zh" v="世纪公园二横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="新港路"/>
+    <tag k="name:en" v="Xingang Road"/>
+    <tag k="name:zh" v="新港路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="渡海路"/>
+    <tag k="name:en" v="Duhai Road"/>
+    <tag k="name:zh" v="渡海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="港湾路"/>
+    <tag k="name:en" v="Gangwan Road"/>
+    <tag k="name:zh" v="港湾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华信路 - Huaxin Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="海运路"/>
+    <tag k="name:en" v="Haiyun Road"/>
+    <tag k="name:zh" v="海运路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="世纪公园路"/>
+    <tag k="name:en" v="Shiji Gongyuan Road"/>
+    <tag k="name:zh" v="世纪公园路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="世纪公园路"/>
+    <tag k="name:en" v="Shiji Gongyuan Road"/>
+    <tag k="name:zh" v="世纪公园路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="人民大桥"/>
+    <tag k="name:en" v="Renmin Bridge"/>
+    <tag k="name:zh" v="人民大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="人民大道"/>
+    <tag k="name:en" v="Renmin Avenue"/>
+    <tag k="name:zh" v="人民大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="泰华横路"/>
+    <tag k="name:en" v="Taihua Cross Road"/>
+    <tag k="name:zh" v="泰华横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="泰华横路"/>
+    <tag k="name:en" v="Taihua Cross Road"/>
+    <tag k="name:zh" v="泰华横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="泰华路"/>
+    <tag k="name:en" v="Taihua Road"/>
+    <tag k="name:zh" v="泰华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="泰华路 - Taihua Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大同路 - Datong Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="解放西路"/>
+    <tag k="name:en" v="Jiefang West Road"/>
+    <tag k="name:zh" v="解放西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="博爱北路 - Bo'ai North Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="得胜沙路"/>
+    <tag k="name:en" v="Deshengsha Road"/>
+    <tag k="name:zh" v="得胜沙路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新华北路"/>
+    <tag k="name:en" v="Xinhua North Road"/>
+    <tag k="name:zh" v="新华北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新华南路"/>
+    <tag k="name:en" v="Xinhua South Road"/>
+    <tag k="name:zh" v="新华南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新华南路"/>
+    <tag k="name:en" v="Xinhua South Road"/>
+    <tag k="name:zh" v="新华南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大英西路"/>
+    <tag k="name:en" v="Daying West Road"/>
+    <tag k="name:zh" v="大英西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="万兴路"/>
+    <tag k="name:en" v="Wanxing Road"/>
+    <tag k="name:zh" v="万兴路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="德利路"/>
+    <tag k="name:en" v="Deli Road"/>
+    <tag k="name:zh" v="德利路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="博爱北路"/>
+    <tag k="name:en" v="Bo'ai North Road"/>
+    <tag k="name:zh" v="博爱北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="和平南路"/>
+    <tag k="name:en" v="Heping South  Road"/>
+    <tag k="name:zh" v="和平南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="大东路"/>
+    <tag k="name:en" v="Dadong Road"/>
+    <tag k="name:zh" v="大东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="大兴东路"/>
+    <tag k="name:en" v="Daxing East Road"/>
+    <tag k="name:zh" v="大兴东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振东街"/>
+    <tag k="name:en" v="Zhendong Street"/>
+    <tag k="name:zh" v="振东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文明横路"/>
+    <tag k="name:en" v="Wenming Cross Road"/>
+    <tag k="name:zh" v="文明横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文明西路"/>
+    <tag k="name:en" v="Wenming Middle Road"/>
+    <tag k="name:zh" v="文明西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文明西路 - Wenming West Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新华北路"/>
+    <tag k="name:en" v="Xinhua North Road"/>
+    <tag k="name:zh" v="新华北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="三亚街"/>
+    <tag k="name:en" v="Sanya Street"/>
+    <tag k="name:zh" v="三亚街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新民西路"/>
+    <tag k="name:en" v="Xinmin West Road"/>
+    <tag k="name:zh" v="新民西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="水巷口街"/>
+    <tag k="name:en" v="Shuixiangkou Street"/>
+    <tag k="name:zh" v="水巷口街"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海富路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海府一横路"/>
+    <tag k="name:en" v="Haifu 1st Cross Street"/>
+    <tag k="name:zh" v="海府一横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海府一横路"/>
+    <tag k="name:en" v="Haifu 1st Cross Street"/>
+    <tag k="name:zh" v="海府一横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海府路"/>
+    <tag k="name:en" v="Haifu Road"/>
+    <tag k="name:zh" v="海府路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="蓝天路"/>
+    <tag k="name:en" v="Lantian Road"/>
+    <tag k="name:zh" v="蓝天路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="蓝天路"/>
+    <tag k="name:en" v="Lantian Road"/>
+    <tag k="name:zh" v="蓝天路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴南路"/>
+    <tag k="name:en" v="Zhenxing South Road"/>
+    <tag k="name:zh" v="振兴南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴南路"/>
+    <tag k="name:en" v="Zhenxing South Road"/>
+    <tag k="name:zh" v="振兴南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴南路"/>
+    <tag k="name:en" v="Zhenxing South Road"/>
+    <tag k="name:zh" v="振兴南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海府路"/>
+    <tag k="name:en" v="Haifu Road"/>
+    <tag k="name:zh" v="海府路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="红城湖路"/>
+    <tag k="name:en" v="Hongcheng Lake Road"/>
+    <tag k="name:zh" v="红城湖路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="群上路"/>
+    <tag k="name:en" v="Qunshang Road"/>
+    <tag k="name:zh" v="群上路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="文明东路"/>
+    <tag k="name:en" v="Wenming East Road"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文明东路 - Wenming East Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文明东路"/>
+    <tag k="name:en" v="Wenming East Road"/>
+    <tag k="name:zh" v="文明东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="板桥横路"/>
+    <tag k="name:en" v="Banqiao Cross Road"/>
+    <tag k="name:zh" v="板桥横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="板桥路"/>
+    <tag k="name:en" v="Banqiao Road"/>
+    <tag k="name:zh" v="板桥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="白龙北路"/>
+    <tag k="name:en" v="Bailong North Road"/>
+    <tag k="name:zh" v="白龙北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="白龙北路"/>
+    <tag k="name:en" v="Bailong North Road"/>
+    <tag k="name:zh" v="白龙北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="白龙北路"/>
+    <tag k="name:en" v="Bailong North Road"/>
+    <tag k="name:zh" v="白龙北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="美祥横路 - Meixiang Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="美祥横路"/>
+    <tag k="name:en" v="Meixiang Cross Road"/>
+    <tag k="name:zh" v="美祥横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="美祥路"/>
+    <tag k="name:en" v="Meixiang Road"/>
+    <tag k="name:zh" v="美祥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美苑路"/>
+    <tag k="name:en" v="Meiyuan Road"/>
+    <tag k="name:zh" v="美苑路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="青年路"/>
+    <tag k="name:en" v="Qingnian Road"/>
+    <tag k="name:zh" v="青年路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="和邦路"/>
+    <tag k="name:en" v="Hebang Road"/>
+    <tag k="name:zh" v="和邦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="和邦路"/>
+    <tag k="name:en" v="Hebang Road"/>
+    <tag k="name:zh" v="和邦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴南路 - Zhenxing South Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴南路"/>
+    <tag k="name:en" v="Zhenxing South Road"/>
+    <tag k="name:zh" v="振兴南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴南路"/>
+    <tag k="name:en" v="Zhenxing South Road"/>
+    <tag k="name:zh" v="振兴南路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海府一横路"/>
+    <tag k="name:en" v="Haifu 1st Cross Street"/>
+    <tag k="name:zh" v="海府一横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海府一横路"/>
+    <tag k="name:en" v="Haifu 1st Cross Street"/>
+    <tag k="name:zh" v="海府一横路"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="敬贤路"/>
+    <tag k="name:en" v="Jingxian Road"/>
+    <tag k="name:zh" v="敬贤路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="朝阳路"/>
+    <tag k="name:en" v="Chaoyang Road"/>
+    <tag k="name:zh" v="朝阳路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="朝萧路"/>
+    <tag k="name:en" v="Chaoxia Road"/>
+    <tag k="name:zh" v="朝萧路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="滨河路"/>
+    <tag k="name:en" v="Binhe Road"/>
+    <tag k="name:zh" v="滨河路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Longkun North Road"/>
+    <tag k="name:zh" v="龙昆北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆北路"/>
+    <tag k="name:en" v="Longkun North Road"/>
+    <tag k="name:zh" v="龙昆北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆北路"/>
+    <tag k="name:en" v="Longkun North Road"/>
+    <tag k="name:zh" v="龙昆北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="滨海新村路"/>
+    <tag k="name:en" v="Binhai New Village Road"/>
+    <tag k="name:zh" v="滨海新村路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="景湾路"/>
+    <tag k="name:en" v="Jingwan Road"/>
+    <tag k="name:zh" v="景湾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="玉河路"/>
+    <tag k="name:en" v="Yuhe Road"/>
+    <tag k="name:zh" v="玉河路"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙昆南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="玉兰路"/>
+    <tag k="name:en" v="Yulan Road"/>
+    <tag k="name:zh" v="玉兰路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="红棉东路"/>
+    <tag k="name:en" v="Hongmian East Road"/>
+    <tag k="name:zh" v="红棉东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="民声西路"/>
+    <tag k="name:en" v="Minsheng West Road"/>
+    <tag k="name:zh" v="民声西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿园中路"/>
+    <tag k="name:en" v="Green Park Middle Road"/>
+    <tag k="name:zh" v="绿园中路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="绿园东路 - Green Park East Road"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="绿园中路 Green Park Middle Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世贸北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="观海路"/>
+    <tag k="name:en" v="Guanhai Road"/>
+    <tag k="name:zh" v="观海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="民声东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="红棉西路"/>
+    <tag k="name:en" v="Hongmian West Road"/>
+    <tag k="name:zh" v="红棉西路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="红棉西路 - Hongmian West Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="红棉西路 - Hongmian West Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="牡丹路"/>
+    <tag k="name:en" v="Mudan Road"/>
+    <tag k="name:zh" v="牡丹路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="紫荆路"/>
+    <tag k="name:en" v="Zijing Road"/>
+    <tag k="name:zh" v="紫荆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="紫荆路"/>
+    <tag k="name:en" v="Zijing Road"/>
+    <tag k="name:zh" v="紫荆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="紫荆路"/>
+    <tag k="name:en" v="Zijing Road"/>
+    <tag k="name:zh" v="紫荆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="紫荆路"/>
+    <tag k="name:en" v="Zijing Road"/>
+    <tag k="name:zh" v="紫荆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="桃李路"/>
+    <tag k="name:en" v="Taoli Road"/>
+    <tag k="name:zh" v="桃李路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="212省道"/>
+    <tag k="name:en" v="212 Provincial Highway"/>
+    <tag k="name:zh" v="212省道"/>
+    <tag k="ref" v="S212"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="杜鹣路"/>
+    <tag k="name:en" v="Dujian Road"/>
+    <tag k="name:zh" v="杜鹣路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="水仙路"/>
+    <tag k="name:en" v="Shuixian Road"/>
+    <tag k="name:zh" v="水仙路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海棠路"/>
+    <tag k="name:en" v="Haitang Road"/>
+    <tag k="name:zh" v="海棠路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="芙蓉路"/>
+    <tag k="name:en" v="Furong Road"/>
+    <tag k="name:zh" v="芙蓉路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="民声西路"/>
+    <tag k="name:en" v="Minsheng West Road"/>
+    <tag k="name:zh" v="民声西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="杜鹣路"/>
+    <tag k="name:en" v="Dujian Road"/>
+    <tag k="name:zh" v="杜鹣路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="港前路"/>
+    <tag k="name:en" v="Gangqian Road"/>
+    <tag k="name:zh" v="港前路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="港航路"/>
+    <tag k="name:en" v="Ganghang Road"/>
+    <tag k="name:zh" v="港航路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="港集路"/>
+    <tag k="name:en" v="Gangji Road"/>
+    <tag k="name:zh" v="港集路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="港集路"/>
+    <tag k="name:en" v="Gangji Road"/>
+    <tag k="name:zh" v="港集路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="双拥路"/>
+    <tag k="name:en" v="Shuangyong Road"/>
+    <tag k="name:zh" v="双拥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="海港路"/>
+    <tag k="name:en" v="Haigang Road"/>
+    <tag k="name:zh" v="海港路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长秀路"/>
+    <tag k="name:en" v="Changxiu Road"/>
+    <tag k="name:zh" v="长秀路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="蓝城大道 - Lancheng Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="蓝城大道 - Lancheng Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="和谐路"/>
+    <tag k="name:en" v="Hexie Road"/>
+    <tag k="name:zh" v="和谐路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="蓝海路"/>
+    <tag k="name:en" v="Lanhai Road"/>
+    <tag k="name:zh" v="蓝海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长信路"/>
+    <tag k="name:en" v="Changxin Road"/>
+    <tag k="name:zh" v="长信路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="和泰路"/>
+    <tag k="name:en" v="Hetai Road"/>
+    <tag k="name:zh" v="和泰路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长怡路"/>
+    <tag k="name:en" v="Changyi Road"/>
+    <tag k="name:zh" v="长怡路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白云路"/>
+    <tag k="name:en" v="Baiyun Road"/>
+    <tag k="name:zh" v="白云路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="蓝城大道"/>
+    <tag k="name:en" v="Lancheng Avenue"/>
+    <tag k="name:zh" v="蓝城大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="港澳大道"/>
+    <tag k="name:en" v="Gang'ao Avenue"/>
+    <tag k="name:zh" v="港澳大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="紫园路"/>
+    <tag k="name:en" v="Ziyuan Road"/>
+    <tag k="name:zh" v="紫园路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="美林路"/>
+    <tag k="name:en" v="Meilin Road"/>
+    <tag k="name:zh" v="美林路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="蓝城大道"/>
+    <tag k="name:en" v="Lancheng Avenue"/>
+    <tag k="name:zh" v="蓝城大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="蓝城大道"/>
+    <tag k="name:en" v="Lancheng Avenue"/>
+    <tag k="name:zh" v="蓝城大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="港澳大道"/>
+    <tag k="name:en" v="Gang'ao Avenue"/>
+    <tag k="name:zh" v="港澳大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长源一街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长和路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海甸六东路"/>
+    <tag k="name:en" v="Haidian 6th East Road"/>
+    <tag k="name:zh" v="海甸六东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="福安路"/>
+    <tag k="name:zh" v="福安路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海甸五东路"/>
+    <tag k="name:en" v="Haidian 5th East Road"/>
+    <tag k="name:zh" v="海甸五东路"/>
+    <tag k="name:zh_pinyin" v="Haidian Wu Dong Lu"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="福甸路"/>
+    <tag k="name:en" v="Fudian Road"/>
+    <tag k="name:zh" v="福甸路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海威路"/>
+    <tag k="name:en" v="Haiwei Road"/>
+    <tag k="name:zh" v="海威路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="20"/>
+    <tag k="name" v="海康路"/>
+    <tag k="name:en" v="Haikang Road"/>
+    <tag k="name:zh" v="海康路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="椰风东路"/>
+    <tag k="name:en" v="Yefeng East Road"/>
+    <tag k="name:zh" v="椰风东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="人民东里"/>
+    <tag k="name:en" v="Renmindongli"/>
+    <tag k="name:zh" v="人民东里"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="人民西路"/>
+    <tag k="name:en" v="Renmin West Road"/>
+    <tag k="name:zh" v="人民西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="希克东路 - Xike East Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="希克西路"/>
+    <tag k="name:en" v="Xike West Road"/>
+    <tag k="name:zh" v="希克西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="希克路"/>
+    <tag k="name:en" v="Xike Road"/>
+    <tag k="name:zh" v="希克路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海甸一西路"/>
+    <tag k="name:en" v="Haidian 1st West Road"/>
+    <tag k="name:zh" v="海甸一西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="福利路"/>
+    <tag k="name:en" v="Fuli Road"/>
+    <tag k="name:zh" v="福利路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="流芳路"/>
+    <tag k="name:en" v="Liufang Road"/>
+    <tag k="name:zh" v="流芳路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="椰风中路"/>
+    <tag k="name:en" v="Yefeng Middle Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海韵中路"/>
+    <tag k="name:en" v="Haiyun Middle Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="群贤北路"/>
+    <tag k="name:en" v="Qunxian North Road"/>
+    <tag k="name:zh" v="群贤北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="群贤南路"/>
+    <tag k="name:en" v="Qunxian South Road"/>
+    <tag k="name:zh" v="群贤南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="翰林路"/>
+    <tag k="name:en" v="Hanlin Road"/>
+    <tag k="name:zh" v="翰林路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="致远路"/>
+    <tag k="name:en" v="Zhiyuan Road"/>
+    <tag k="name:zh" v="致远路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name:zh" v="海甸四西路 - Haidian 4th West Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="邦墩西路"/>
+    <tag k="name:en" v="Bangdun West Road"/>
+    <tag k="name:zh" v="邦墩西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="玉兰路"/>
+    <tag k="name:en" v="Yulan Road"/>
+    <tag k="name:zh" v="玉兰路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="椰蕾路"/>
+    <tag k="name:en" v="Yelei Road"/>
+    <tag k="name:zh" v="椰蕾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文心路"/>
+    <tag k="name:en" v="Wenxin Road"/>
+    <tag k="name:zh" v="文心路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="紫荆路"/>
+    <tag k="name:en" v="Zijing Road"/>
+    <tag k="name:zh" v="紫荆路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="芙蓉路"/>
+    <tag k="name:en" v="Furong Road"/>
+    <tag k="name:zh" v="芙蓉路"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="竹影路"/>
+    <tag k="name:en" v="Fuying Road"/>
+    <tag k="name:zh" v="竹影路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="荷塘路"/>
+    <tag k="name:en" v="Hetang Road"/>
+    <tag k="name:zh" v="荷塘路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="甸昆路"/>
+    <tag k="name:en" v="Dianken Road"/>
+    <tag k="name:zh" v="甸昆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="兴发东路 -Xingfa East Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平大道一横路 - Heping Avenue 1st Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平大道三横路 - Heping Avenue 3rd Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平大道二横路 - Heping Avenue 2nd Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="兴发西路 -Xingfa West Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平大道一横路 - Heping Avenue 1st Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平大道三横路 - Heping Avenue 3rd Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="颐院路"/>
+    <tag k="name:en" v="Yiyuan Road"/>
+    <tag k="name:zh" v="颐院路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海甸五西路"/>
+    <tag k="name:en" v="Haidian 5th West Road"/>
+    <tag k="name:zh" v="海甸五西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="福海路"/>
+    <tag k="name:en" v="Fuhai Road"/>
+    <tag k="name:zh" v="福海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="新埠大道"/>
+    <tag k="name:en" v="Xinbu Avenue"/>
+    <tag k="name:zh" v="新埠大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西苑路"/>
+    <tag k="name:en" v="Xiyuan Road"/>
+    <tag k="name:zh" v="西苑路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西苑路"/>
+    <tag k="name:en" v="Xiyuan Road"/>
+    <tag k="name:zh" v="西苑路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西苑路"/>
+    <tag k="name:en" v="Xiyuan Road"/>
+    <tag k="name:zh" v="西苑路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海达一横路"/>
+    <tag k="name:en" v="Haida 1st Cross Road"/>
+    <tag k="name:zh" v="海达一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海达二横路"/>
+    <tag k="name:en" v="Haida 2nd Cross Road"/>
+    <tag k="name:zh" v="海达二横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海霞路"/>
+    <tag k="name:en" v="Haixia Road"/>
+    <tag k="name:zh" v="海霞路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="福安路"/>
+    <tag k="name:en" v="Fu'an Road"/>
+    <tag k="name:zh" v="福安路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="水港路"/>
+    <tag k="name:en" v="Shuigang Road"/>
+    <tag k="name:zh" v="水港路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华信路"/>
+    <tag k="name:en" v="Huaxin Road"/>
+    <tag k="name:zh" v="华信路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="公园一横路"/>
+    <tag k="name:en" v="Gongyuan 1st Cross Road"/>
+    <tag k="name:zh" v="公园一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="银河路"/>
+    <tag k="name:en" v="Yinhe Road"/>
+    <tag k="name:zh" v="银河路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="八灶街"/>
+    <tag k="name:en" v="Bazao Street"/>
+    <tag k="name:zh" v="八灶街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="盐灶一横路"/>
+    <tag k="name:en" v="Yanzhao 1st Cross Road"/>
+    <tag k="name:zh" v="盐灶一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="高登东街"/>
+    <tag k="name:en" v="Gaodeng East Street"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海港二横路 - Haigang 2nd Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海港三横路 - Haigang 3rd Cross Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="丘海一横路"/>
+    <tag k="name:en" v="Qiuhai 1st Cross Road"/>
+    <tag k="name:zh" v="丘海一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="书场街"/>
+    <tag k="name:en" v="Shuchang Street"/>
+    <tag k="name:zh" v="书场街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金滩路"/>
+    <tag k="name:en" v="Jintan Road"/>
+    <tag k="name:zh" v="金滩路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="外运路 - Waiyun Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="港祥路 Gangxiang Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="爱华路"/>
+    <tag k="name:en" v="Aihua Road"/>
+    <tag k="name:zh" v="爱华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="爱华路"/>
+    <tag k="name:en" v="Aihua Road"/>
+    <tag k="name:zh" v="爱华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="东方洋路"/>
+    <tag k="name:en" v="Dongfangyang Road"/>
+    <tag k="name:zh" v="东方洋路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="151 县道 - 151 County Road"/>
+    <tag k="ref" v="X151"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="149 县道 - 149 County Road"/>
+    <tag k="ref" v="X149"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="149 县道 - 149 County Road"/>
+    <tag k="ref" v="X149"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海瑞后路"/>
+    <tag k="name:en" v="Hai Rui Back Road"/>
+    <tag k="name:zh" v="海瑞后路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="滨涯路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美俗路"/>
+    <tag k="name:en" v="Meisu Road"/>
+    <tag k="name:zh" v="美俗路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美俗路 - Meisu Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="美华路"/>
+    <tag k="name:en" v="Meihua Road"/>
+    <tag k="name:zh" v="美华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海瑞路"/>
+    <tag k="name:en" v="Hai Rui Road"/>
+    <tag k="name:zh" v="海瑞路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友谊路"/>
+    <tag k="name:en" v="Youyi Road"/>
+    <tag k="name:zh" v="友谊路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海瑞路"/>
+    <tag k="name:en" v="Hairui Road"/>
+    <tag k="name:zh" v="海瑞路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="滨濂路"/>
+    <tag k="name:en" v="Binlian Road"/>
+    <tag k="name:zh" v="滨濂路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="滨濂路"/>
+    <tag k="name:en" v="Binlian Road"/>
+    <tag k="name:zh" v="滨濂路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金宇东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="西站路"/>
+    <tag k="name:en" v="Xizhan Road"/>
+    <tag k="name:zh" v="西站路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世贸北路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金贸中路"/>
+    <tag k="name:en" v="Jinmao Middle Road"/>
+    <tag k="name:zh" v="金贸中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金贸西路"/>
+    <tag k="name:en" v="Jinmao West Road"/>
+    <tag k="name:zh" v="金贸西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金贸西路 - Jinmao West Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="文华路"/>
+    <tag k="name:en" v="Wenhua Road"/>
+    <tag k="name:zh" v="文华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="玉兰路"/>
+    <tag k="name:en" v="Yulan Road"/>
+    <tag k="name:zh" v="玉兰路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金贸中路"/>
+    <tag k="name:en" v="Jinmao Middle Road"/>
+    <tag k="name:zh" v="金贸中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金贸东路"/>
+    <tag k="name:en" v="Jinmao East Road"/>
+    <tag k="name:zh" v="金贸东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="国贸路 - Guomao Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙华路"/>
+    <tag k="name:en" v="Longhua Road"/>
+    <tag k="name:zh" v="龙华路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="盐灶路"/>
+    <tag k="name:en" v="Yanzao Road"/>
+    <tag k="name:zh" v="盐灶路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="盐灶路"/>
+    <tag k="name:en" v="Yanzao Road"/>
+    <tag k="name:zh" v="盐灶路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="龙华二横路"/>
+    <tag k="name:en" v="Longhua 2nd Cross Road"/>
+    <tag k="name:zh" v="龙华二横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="八灶街"/>
+    <tag k="name:en" v="Bazao Street"/>
+    <tag k="name:zh" v="八灶街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="琼苑路"/>
+    <tag k="name:en" v="Qiongyuan Road"/>
+    <tag k="name:zh" v="琼苑路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="琼苑路"/>
+    <tag k="name:en" v="Qiongyuan Road"/>
+    <tag k="name:zh" v="琼苑路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="美舍路"/>
+    <tag k="name:en" v="Meishe Road"/>
+    <tag k="name:zh" v="美舍路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建山里"/>
+    <tag k="name:en" v="Jianshanli"/>
+    <tag k="name:zh" v="建山里"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文联路"/>
+    <tag k="name:en" v="Wenlian Road"/>
+    <tag k="name:zh" v="文联路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文联路"/>
+    <tag k="name:en" v="Wenlian Road"/>
+    <tag k="name:zh" v="文联路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="博爱北路 - Bo'ai North Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="和平北路"/>
+    <tag k="name:en" v="Heping North Road"/>
+    <tag k="name:zh" v="和平北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="和平南路"/>
+    <tag k="name:en" v="Heping South  Road"/>
+    <tag k="name:zh" v="和平南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="Shishan Scenic Road"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="环市街"/>
+    <tag k="name:en" v="Huanshi Street"/>
+    <tag k="name:zh" v="环市街"/>
+    <tag k="ref" v="X142"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="142县道"/>
+    <tag k="name:en" v="142 County Highway"/>
+    <tag k="name:zh" v="142县道"/>
+    <tag k="ref" v="X142"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="142县道"/>
+    <tag k="name:en" v="142 County Highway"/>
+    <tag k="ref" v="X142"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="193县道 - 193 Xian Dao"/>
+    <tag k="name:en" v="193 County Road"/>
+    <tag k="name:zh" v="193县道"/>
+    <tag k="ref" v="X193"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="怡心一横路"/>
+    <tag k="name:en" v="Yixin 1st Cross Road"/>
+    <tag k="name:zh" v="怡心一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振兴路"/>
+    <tag k="name:en" v="Zhenxing Road"/>
+    <tag k="name:zh" v="振兴路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="高登东街"/>
+    <tag k="name:en" v="Gaodeng East Street"/>
+    <tag k="name:zh" v="高登东街"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="洗马桥路"/>
+    <tag k="name:en" v="Ximaqiao Road"/>
+    <tag k="name:zh" v="洗马桥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="洗马桥路"/>
+    <tag k="name:en" v="Ximaqiao Road"/>
+    <tag k="name:zh" v="洗马桥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="洗马桥路"/>
+    <tag k="name:en" v="Ximaqiao Road"/>
+    <tag k="name:zh" v="洗马桥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路"/>
+    <tag k="name:en" v="223 National Road"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路 - 223 National Road"/>
+    <tag k="note" v="national trunk road supercedd by S 11"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路 - 223 National Road"/>
+    <tag k="note" v="national trunk road supercedd by S 11"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路"/>
+    <tag k="name:en" v="223 National Road"/>
+    <tag k="note" v="national trunk road supercedd by S 11"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="见龙大道"/>
+    <tag k="name:en" v="Jianlong Avenue"/>
+    <tag k="name:zh" v="见龙大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S202"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="145 县道 - 145 County Road"/>
+    <tag k="name:en" v="145 County Road"/>
+    <tag k="name:zh" v="145 县道"/>
+    <tag k="ref" v="X145"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="144 县道 - 144 County Road"/>
+    <tag k="name:en" v="144 County Road"/>
+    <tag k="name:zh" v="144县道"/>
+    <tag k="ref" v="X144"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="224国道 - 海秀西路 - 224 National Road"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="港澳大道"/>
+    <tag k="name:en" v="Gang'ao Avenue"/>
+    <tag k="name:zh" v="港澳大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="港澳大道"/>
+    <tag k="name:en" v="Gang'ao Avenue"/>
+    <tag k="name:zh" v="港澳大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长秀路"/>
+    <tag k="name:en" v="Changxiu Road"/>
+    <tag k="name:zh" v="长秀路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="长滨西一街"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="凤翔东路"/>
+    <tag k="name:en" v="Fengxiang East Road"/>
+    <tag k="name:zh" v="凤翔东路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="凤翔西路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="龙昆南路（辅路）"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="龙昆南路（辅路）"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海德路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="白驹大道"/>
+    <tag k="name:en" v="Baiju Avenue"/>
+    <tag k="name:zh" v="白驹大道"/>
+    <tag k="ref" v="S111"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="白驹大道"/>
+    <tag k="name:en" v="Baiju Avenue"/>
+    <tag k="name:zh" v="白驹大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="白驹大道"/>
+    <tag k="name:en" v="Baiju Avenue"/>
+    <tag k="name:zh" v="白驹大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="朱云路"/>
+    <tag k="name:en" v="Zhuyun Road"/>
+    <tag k="name:zh" v="朱云路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="丁村二路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="高登西街"/>
+    <tag k="name:en" v="Gaodeng West Street"/>
+    <tag k="name:zh" v="高登西街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金牛路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金濂路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金盘路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金星路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="中沙路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白水塘路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金花路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丘海大道"/>
+    <tag k="name:en" v="Qiuhai Avenue"/>
+    <tag k="name:zh" v="丘海大道"/>
+    <tag k="name:zh_pinyin" v="Qiu Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长滨路"/>
+    <tag k="name:en" v="Changbin Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;Bing Sat"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="粤海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing Sat"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="粵海大道"/>
+    <tag k="name:en" v="Yuehai Avenue"/>
+    <tag k="name:zh" v="粵海大道"/>
+    <tag k="source" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="和平大道"/>
+    <tag k="name:en" v="Heping Avenue"/>
+    <tag k="name:zh" v="和平大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="和平北路"/>
+    <tag k="name:en" v="Heping North Road"/>
+    <tag k="name:zh" v="和平北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="和平大桥"/>
+    <tag k="name:en" v="Heping Bridge"/>
+    <tag k="name:zh" v="和平大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="胜景东路"/>
+    <tag k="name:en" v="Shengjing East Road"/>
+    <tag k="name:zh" v="胜景东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="滨贸路"/>
+    <tag k="name:en" v="Binmao Road"/>
+    <tag k="name:zh" v="滨贸路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="滨贸路"/>
+    <tag k="name:en" v="Binmao Road"/>
+    <tag k="name:zh" v="滨贸路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世贸北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世贸北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="国贸路"/>
+    <tag k="name:en" v="Guomao Road"/>
+    <tag k="name:zh" v="国贸路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="甸昆路"/>
+    <tag k="name:en" v="Dianken Road"/>
+    <tag k="name:zh" v="甸昆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金海路"/>
+    <tag k="name:en" v="Jinhai Road"/>
+    <tag k="name:zh" v="金海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金贸西路"/>
+    <tag k="name:en" v="Jinmao West Road"/>
+    <tag k="name:zh" v="金贸西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="五源河桥"/>
+    <tag k="name:en" v="Fiver Springs River Bridge"/>
+    <tag k="name:zh" v="五源河桥"/>
+    <tag k="name:zh_pinyin" v="Wǔyuán Hé Qiáo"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="五源河桥"/>
+    <tag k="name:en" v="Fiver Springs River Bridge"/>
+    <tag k="name:zh" v="五源河桥"/>
+    <tag k="name:zh_pinyin" v="Wǔyuán Hé Qiáo"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="流芳路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="公祠路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海秀东路"/>
+    <tag k="name:en" v="Haixiu East Road"/>
+    <tag k="name:zh" v="海秀东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="豪巷街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美苑路"/>
+    <tag k="name:en" v="Meiyuan Road"/>
+    <tag k="name:zh" v="美苑路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="兴丹路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文坛路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="兴丹路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文兴路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="兴丹路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="东门里"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大同路 - Datong Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大同路"/>
+    <tag k="name:en" v="Datong Road"/>
+    <tag k="name:zh" v="大同路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="225国道"/>
+    <tag k="name:en" v="225 National Road"/>
+    <tag k="name:zh" v="225国道"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing Sat"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道"/>
+    <tag k="name:en" v="225 National Road"/>
+    <tag k="name:zh" v="225国道"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing Sat"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="154 县道"/>
+    <tag k="name:en" v="154 County Road"/>
+    <tag k="name:zh" v="154县道"/>
+    <tag k="ref" v="X154"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="193县道 - 193 Xian Dao"/>
+    <tag k="name:en" v="193 County Road"/>
+    <tag k="name:zh" v="193县道"/>
+    <tag k="ref" v="X193"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="流芳路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸二东路"/>
+    <tag k="name:en" v="Haidian 2nd East Road"/>
+    <tag k="name:zh" v="海甸二东路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="154 县道"/>
+    <tag k="name:en" v="154 County Road"/>
+    <tag k="name:zh" v="154县道"/>
+    <tag k="ref" v="X154"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="154 县道"/>
+    <tag k="name:en" v="154 County Road"/>
+    <tag k="name:zh" v="154县道"/>
+    <tag k="ref" v="X154"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="154 县道"/>
+    <tag k="name:en" v="154 County Road"/>
+    <tag k="name:zh" v="154县道"/>
+    <tag k="ref" v="X154"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路"/>
+    <tag k="name:en" v="223 National Road"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="148 县道"/>
+    <tag k="name:en" v="148 County Road"/>
+    <tag k="name:zh" v="148 县道"/>
+    <tag k="ref" v="X148"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="148 县道"/>
+    <tag k="name:en" v="148 County Road"/>
+    <tag k="name:zh" v="148 县道"/>
+    <tag k="ref" v="X148"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="146县道 - 146 Xian Dao"/>
+    <tag k="name:en" v="146 County Road"/>
+    <tag k="name:zh" v="146县道"/>
+    <tag k="ref" v="X146"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="159 县道 - 159 County Road"/>
+    <tag k="ref" v="X159"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="225国道"/>
+    <tag k="name:en" v="225 National Road"/>
+    <tag k="name:zh" v="225国道"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing Sat"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="海秀快速路"/>
+    <tag k="name:en" v="Haixiu Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="海秀快速路"/>
+    <tag k="name:en" v="Haixiu Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G225"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碧海大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="和平大道"/>
+    <tag k="name:en" v="Heping Avenue"/>
+    <tag k="name:zh" v="和平大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="和平大道"/>
+    <tag k="name:en" v="Heping Avenue"/>
+    <tag k="name:zh" v="和平大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世纪大道"/>
+    <tag k="name:en" v="Century Avenue"/>
+    <tag k="name:zh" v="世纪大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="世纪大道"/>
+    <tag k="name:en" v="Century Avenue"/>
+    <tag k="name:zh" v="世纪大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民大道"/>
+    <tag k="name:en" v="Renmin Avenue"/>
+    <tag k="name:zh" v="人民大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="人民大道"/>
+    <tag k="name:en" v="Renmin Avenue"/>
+    <tag k="name:zh" v="人民大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碧海大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海甸五西路"/>
+    <tag k="name:en" v="Haidian 5th West Road"/>
+    <tag k="name:zh" v="海甸五西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸五西路"/>
+    <tag k="name:en" v="Haidian 5th West Road"/>
+    <tag k="name:zh" v="海甸五西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸六东路"/>
+    <tag k="name:en" v="Haidian 6th East Road"/>
+    <tag k="name:zh" v="海甸六东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="青年路"/>
+    <tag k="name:en" v="Qingnian Road"/>
+    <tag k="name:zh" v="青年路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南海大道"/>
+    <tag k="name:en" v="Nanhai Avenue"/>
+    <tag k="name:zh" v="南海大道"/>
+    <tag k="name:zh_pinyin" v="Nan Hai Da Dao"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S100"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中山南路"/>
+    <tag k="name:en" v="Zhongshan South Road"/>
+    <tag k="name:zh" v="中山南路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="新城路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="豪苑路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="世贸北路 - Shimao East Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="龙昆南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="龙困南路"/>
+    <tag k="name:en" v="Longkun South Road"/>
+    <tag k="name:zh" v="龙困南路"/>
+    <tag k="name:zh_pinyin" v="Long Kun Nan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="224国道 - 海秀西路"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="158 县道 - 158 County Road"/>
+    <tag k="name:en" v="158 County Road"/>
+    <tag k="name:zh" v="158 县道"/>
+    <tag k="ref" v="X158"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="193县道 - 193 Xian Dao"/>
+    <tag k="name:en" v="193 County Road"/>
+    <tag k="name:zh" v="193县道"/>
+    <tag k="ref" v="X193"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="193县道 - 193 Xian Dao"/>
+    <tag k="name:en" v="193 County Road"/>
+    <tag k="name:zh" v="193县道"/>
+    <tag k="ref" v="X193"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼州大道 - Qiongzhou Avenue"/>
+    <tag k="name:en" v="Qiongzhou Avenue"/>
+    <tag k="name:zh" v="琼州大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼州大道 - Qiongzhou Avenue"/>
+    <tag k="name:en" v="Qiongzhou Avenue"/>
+    <tag k="name:zh" v="琼州大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼文大道"/>
+    <tag k="name:en" v="Qiongwen Avenue"/>
+    <tag k="name:zh" v="琼文大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="火山口大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="235"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="火山口大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="235"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海甸一东路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="定海大桥"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="秀英大道"/>
+    <tag k="name:en" v="Xiuying Avenue"/>
+    <tag k="name:zh" v="秀英大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路 - 224 National Road"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G224"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="体坛路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金园路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金牛路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白龙南一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白龙南二横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白龙南四横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白龙南三横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华庭路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华庭横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="滨贤路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海贤路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="流水坡路"/>
+    <tag k="name:en" v="Liushuipo Road"/>
+    <tag k="name:zh" v="流水坡路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美祥东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美坡路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="滨江路"/>
+    <tag k="name:en" v="Binjiang Road"/>
+    <tag k="name:zh" v="滨江路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="大英路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碧海大道"/>
+    <tag k="name:en" v="Bihai Avenue"/>
+    <tag k="name:zh" v="碧海大道"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="国贸三横路"/>
+    <tag k="name:en" v="Guomao 3nd Cross Road"/>
+    <tag k="name:zh" v="国贸三横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="侨中路"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="侨中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="大同南街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="华海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="振发横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="振发路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振教巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="振翔巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="振群路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="金南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="金南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="滨海大道"/>
+    <tag k="name:en" v="Binhai Avenue"/>
+    <tag k="name:zh" v="滨海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南沙路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金地路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金岭路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金牛路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="坡巷路"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="银湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="公园后路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海秀东路"/>
+    <tag k="name:en" v="Haixiu East Road"/>
+    <tag k="name:zh" v="海秀东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="世纪公园路"/>
+    <tag k="name:en" v="Shiji Gongyuan Road"/>
+    <tag k="name:zh" v="世纪公园路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="世纪公园路"/>
+    <tag k="name:en" v="Shiji Gongyuan Road"/>
+    <tag k="name:zh" v="世纪公园路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南洋小街"/>
+    <tag k="name:zh" v="南洋小街"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="海甸一东路"/>
+    <tag k="name:en" v="Haidian 1st East Road"/>
+    <tag k="name:zh" v="海甸一东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺六巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺四巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺五巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="头铺南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金花西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金星一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金建街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设二横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设三横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="城西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设二横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="城西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="城西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="建设二横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金花路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金巷路"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="224国道 - 海秀西路 - 224 National Road"/>
+    <tag k="name:en" v="224 National Road"/>
+    <tag k="name:zh" v="224国道"/>
+    <tag k="ref" v="G224"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路"/>
+    <tag k="name:en" v="Youyi Road"/>
+    <tag k="name:zh" v="友谊路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="海秀中路"/>
+    <tag k="name:en" v="Haixiu Middle Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="海秀西路"/>
+    <tag k="name:en" v="Haixiu West Road"/>
+    <tag k="name:zh" v="海秀西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金垦路"/>
+    <tag k="name:en" v="Jinken Road"/>
+    <tag k="name:zh" v="金垦路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="侨中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金垦路"/>
+    <tag k="name:en" v="Jinken Road"/>
+    <tag k="name:zh" v="金垦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金宇东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银沙街"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="海秀快速路"/>
+    <tag k="name:en" v="Haixiu Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海秀中路"/>
+    <tag k="name:en" v="Haixiu Middle Road"/>
+    <tag k="name:zh" v="海秀中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="海秀西路"/>
+    <tag k="name:en" v="Haixiu West Road"/>
+    <tag k="name:zh" v="海秀西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海秀桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海秀桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="海秀中路"/>
+    <tag k="name:en" v="Haixiu Middle Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="国兴大道"/>
+    <tag k="name:en" v="Guoxing Avenue"/>
+    <tag k="name:zh" v="国兴大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="白驹大道"/>
+    <tag k="name:en" v="Baiju Avenue"/>
+    <tag k="name:zh" v="白驹大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="航安一街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="烟厂后街"/>
+    <tag k="name:en" v="Yanchang Back Street"/>
+    <tag k="name:zh" v="烟厂后街"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="世纪大桥"/>
+    <tag k="name:en" v="Century Bridge"/>
+    <tag k="name:zh" v="世纪大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:structure" v="cable-stayed"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海文大桥"/>
+    <tag k="name:en" v="Haiwen Bridge"/>
+    <tag k="old_name" v="铺前大桥"/>
+    <tag k="old_name:en" v="Puqian Bridge"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S206"/>
+    <tag k="wikidata" v="Q27966778"/>
+    <tag k="wikipedia" v="en:Puqian Bridge"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:structure" v="cable-stayed"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="海文大桥"/>
+    <tag k="name:en" v="Haiwen Bridge"/>
+    <tag k="old_name" v="铺前大桥"/>
+    <tag k="old_name:en" v="Puqian Bridge"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S206"/>
+    <tag k="wikidata" v="Q27966778"/>
+    <tag k="wikipedia" v="en:Puqian Bridge"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="琼文大道"/>
+    <tag k="name:en" v="Qiongwen Avenue"/>
+    <tag k="name:zh" v="琼文大道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="广场路"/>
+    <tag k="name:en" v="Square Road"/>
+    <tag k="name:zh" v="广场路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="东湖路"/>
+    <tag k="name:en" v="East Lake Road"/>
+    <tag k="name:zh" v="东湖路"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海秀快速路辅路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海秀快速路辅路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="海秀快速路"/>
+    <tag k="name:en" v="Haixiu Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G225"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="海港路"/>
+    <tag k="name:en" v="Haigang Road"/>
+    <tag k="name:zh" v="海港路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="海港路"/>
+    <tag k="name:en" v="Haigang Road"/>
+    <tag k="name:zh" v="海港路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="海港路"/>
+    <tag k="name:en" v="Haigang Road"/>
+    <tag k="name:zh" v="海港路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长堤路"/>
+    <tag k="name:en" v="Changdi Road"/>
+    <tag k="name:zh" v="长堤路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="和邦路"/>
+    <tag k="name:en" v="Hebang Road"/>
+    <tag k="name:zh" v="和邦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="和邦路"/>
+    <tag k="name:en" v="Hebang Road"/>
+    <tag k="name:zh" v="和邦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="和邦路"/>
+    <tag k="name:en" v="Hebang Road"/>
+    <tag k="name:zh" v="和邦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="和邦路"/>
+    <tag k="name:en" v="Hebang Road"/>
+    <tag k="name:zh" v="和邦路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="定海大桥"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="定海大桥"/>
+    <tag k="wikidata" v="Q20984124"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="159 县道 - 159 County Road"/>
+    <tag k="ref" v="X159"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="159 县道 - 159 County Road"/>
+    <tag k="ref" v="X159"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="定海大桥"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="琼山大道"/>
+    <tag k="name:en" v="Qiongshan Avenue"/>
+    <tag k="name:zh" v="琼山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="红城湖路"/>
+    <tag k="name:en" v="Hongcheng Lake Road"/>
+    <tag k="name:zh" v="红城湖路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="椰海大道"/>
+    <tag k="name:en" v="Yehai Avenue"/>
+    <tag k="name:zh" v="椰海大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="长滨东一街"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海秀快速路辅路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="海甸四东路"/>
+    <tag k="name:en" v="Haidian 4th East Road"/>
+    <tag k="name:zh" v="海甸四东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海甸四东路"/>
+    <tag k="name:en" v="Haidian 4th East Road"/>
+    <tag k="name:zh" v="海甸四东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="和平大桥"/>
+    <tag k="name:en" v="Heping Bridge"/>
+    <tag k="name:zh" v="和平大桥"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="航安二街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="海秀西路"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道"/>
+    <tag k="note" v="national trunk road superceded by S11"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路 - 223 National Road"/>
+    <tag k="note" v="national trunk road supercedd by S 11"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="201省道"/>
+    <tag k="name:en" v="201 Provincial Highway"/>
+    <tag k="name:zh" v="201省道"/>
+    <tag k="ref" v="S201"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="name:en" v="Meilan Airport Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="粤海大道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing Sat"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="粤海大道"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing Sat"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海秀快速路辅路"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海秀快速路辅路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="海秀快速路辅路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="河口路"/>
+    <tag k="name:en" v="Hekou Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="海中后街"/>
+    <tag k="name:en" v="Haizhong Back Street"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="河口路"/>
+    <tag k="name:en" v="Hekou Road"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="河口路"/>
+    <tag k="name:en" v="Hekou Road"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="巴伦路"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="美兰机场路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="敬贤路"/>
+    <tag k="name:en" v="Jingxian Road"/>
+    <tag k="name:zh" v="敬贤路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="美坡路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="海府一横路"/>
+    <tag k="name:en" v="Haifu 1st Cross Street"/>
+    <tag k="name:zh" v="海府一横路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="怡心路"/>
+    <tag k="name:en" v="Yixin Road"/>
+    <tag k="name:zh" v="怡心路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="海秀西路"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道"/>
+    <tag k="note" v="national trunk road superceded by S11"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="机场联络线"/>
+    <tag k="name:en" v="Haikou Ring Expressway"/>
+    <tag k="old_name" v="海口绕城高速"/>
+    <tag k="old_ref" v="G1501"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S82"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="机场联络线"/>
+    <tag k="name:en" v="Hainan Ring Expressway"/>
+    <tag k="old_name" v="海口绕城高速"/>
+    <tag k="old_ref" v="G1501"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S82"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="机场联络线"/>
+    <tag k="name:en" v="Haikou Ring Expressway"/>
+    <tag k="old_name" v="海口绕城高速"/>
+    <tag k="old_ref" v="G1501"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S82"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="机场联络线"/>
+    <tag k="name:en" v="Hainan Ring Expressway"/>
+    <tag k="old_name" v="海口绕城高速"/>
+    <tag k="old_ref" v="G1501"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S82"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="航安二街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="机场联络线"/>
+    <tag k="name:en" v="Haikou Ring Expressway"/>
+    <tag k="old_name" v="海口绕城高速"/>
+    <tag k="old_ref" v="G1501"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S82"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="机场联络线"/>
+    <tag k="name:en" v="Hainan Ring Expressway"/>
+    <tag k="old_name" v="海口绕城高速"/>
+    <tag k="old_ref" v="G1501"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S82"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="223国道 - 海秀西路 - 223 National Road"/>
+    <tag k="note" v="national trunk road supercedd by S 11"/>
+    <tag k="ref" v="G223"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="154 县道"/>
+    <tag k="name:en" v="154 County Road"/>
+    <tag k="name:zh" v="154县道"/>
+    <tag k="ref" v="X154"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="154 县道"/>
+    <tag k="name:en" v="154 County Road"/>
+    <tag k="name:zh" v="154县道"/>
+    <tag k="ref" v="X154"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="新大洲大道"/>
+    <tag k="name:en" v="Xindazhou Avenue"/>
+    <tag k="name:zh" v="新大洲大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G223"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="202 省道 - 202 Provincial Highway"/>
+    <tag k="name:en" v="202 Provincial Highway"/>
+    <tag k="name:zh" v="202省道"/>
+    <tag k="ref" v="S202"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="西十路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="四横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="一横路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="东十路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="东四路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西四路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="东一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="东七路"/>
+  </way>
+  <way>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="horse" v="no"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="合北路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="西七路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="见龙大道"/>
+    <tag k="name:en" v="Jianlong Avenue"/>
+    <tag k="name:zh" v="见龙大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S202"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长源一街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长源二街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="104县道"/>
+    <tag k="name:en" v="104 County Road"/>
+    <tag k="name:zh" v="104县道"/>
+    <tag k="ref" v="X104"/>
+  </way>
+
+</osm>

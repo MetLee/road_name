@@ -1,0 +1,5786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-20T15:52:01Z" areas="2023-01-20T09:59:38Z"/>
+
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="达坂城街"/>
+    <tag k="name:en" v="Dabancheng Street"/>
+    <tag k="name:zh" v="达坂城街"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="ref" v="G312;G314"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="新兴街"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐-阿乐惠"/>
+    <tag k="ref" v="S103"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="迎宾路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="克拉玛依西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;knowledge"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银川路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银川路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="克拉玛依西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;knowledge"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="贵州路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="西珹街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="克拉玛依西路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;knowledge"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="祥云西街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="祥云西街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="头屯河公路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="头屯河公路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="头屯河公路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山南路"/>
+    <tag k="name:en" v="Yashan South Road"/>
+    <tag k="name:zh" v="雅山南路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312;G314"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="乌鲁木齐-阿乐惠"/>
+    <tag k="ref" v="S103"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐-阿乐惠"/>
+    <tag k="ref" v="S103"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="河滩北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="天山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="Changjiang Road"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_name" v="Changjiang Road"/>
+    <tag k="name" v="长江路"/>
+    <tag k="name:ug" v="چاڭجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山北路"/>
+    <tag k="name:en" v="Yashan North Road"/>
+    <tag k="name:zh" v="雅山北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南庄大道"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="奇台路"/>
+    <tag k="name:ug" v="گۇچۇڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="黑龙江路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="二道桥民俗风味一条街 دۆڭكۆۋرۈك مىللىي يىمەك-ئىچمەك كوچىسى"/>
+    <tag k="name:ug" v="دۆڭكۆۋرۈك مىللىي يىمەك-ئىچمەك كوچىسى"/>
+    <tag k="name:zh" v="二道桥民俗风味一条街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="团结路"/>
+    <tag k="name:zh" v="团结路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="领馆巷 كونسول كوچىسى"/>
+    <tag k="name:ug" v="كونسول كوچىسى"/>
+    <tag k="name:zh" v="领馆巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="龙泉街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="龙泉街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="奇台路"/>
+    <tag k="name:ug" v="گۇچۇڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="光明路نۇرلۇق يولى"/>
+    <tag k="name:ug" v="نۇرلۇق يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="民主路"/>
+    <tag k="name:ug" v="دىموكراتىيە يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中山路"/>
+    <tag k="name:ug" v="جوڭشەن يولى"/>
+    <tag k="name:zh" v="中山路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="红旗路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="建设路"/>
+    <tag k="name:ug" v="قۇرۇلۇش يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="建设路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="文艺路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="青年路ياشلار يولى"/>
+    <tag k="name:ug" v="ياشلار يولى"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="青年路ياشلار يولى"/>
+    <tag k="name:ug" v="ياشلار يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="体育馆路تەنتەربىيە سارىيى يولى"/>
+    <tag k="name:ug" v="تەنتەربىيە سارىيى يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大湾北路 شىمالىي داۋان يولى"/>
+    <tag k="name:ug" v="شىمالىي داۋان يولى"/>
+    <tag k="name:zh" v="大湾北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="延安路 يەنئەن يولى"/>
+    <tag k="name:ug" v="يەنئەن يولى"/>
+    <tag k="name:zh" v="延安路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S106"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="观园路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="英阿瓦提路"/>
+    <tag k="name:ug" v="يىڭىئاۋات يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山北路"/>
+    <tag k="name:en" v="Yashan North Road"/>
+    <tag k="name:zh" v="雅山北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="珠江路"/>
+    <tag k="name:ug" v="جۇجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="巴哈尔路 باھار يولى"/>
+    <tag k="name:ug" v="باھار يولى"/>
+    <tag k="name:zh" v="巴哈尔路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="和田二街 خوتەن ئىككىنچى كوچىسى"/>
+    <tag k="name:ug" v="خوتەن ئىككىنچى كوچىسى"/>
+    <tag k="name:zh" v="和田二街"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="乌苏路 شىخو يولى"/>
+    <tag k="name:ug" v="شىخو يولى"/>
+    <tag k="name:zh" v="乌苏路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="吐鲁番路 تۇرپان يولى"/>
+    <tag k="name:ug" v="تۇرپان يولى"/>
+    <tag k="name:zh" v="吐鲁番路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="和田一街 خوتەن بىرىنچى كوچىسى"/>
+    <tag k="name:ug" v="خوتەن بىرىنچى كوچىسى"/>
+    <tag k="name:zh" v="和田一街"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="WuYi Road"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="WuYi Road"/>
+    <tag k="name" v="五一路 بىرىنچى ماي يولى"/>
+    <tag k="name:ug" v="بىرىنچى ماي يولى"/>
+    <tag k="name:zh" v="五一路"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="HeTian Street"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="int_name" v="HeTian Street"/>
+    <tag k="name" v="和田街 خوتەن كوچىسى"/>
+    <tag k="name:ug" v="خوتەن كوچىسى"/>
+    <tag k="name:zh" v="和田街"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="YuTian Street"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="int_name" v="YuTian Street"/>
+    <tag k="name" v="于田街 كرىيە كوچىسى"/>
+    <tag k="name:ug" v="كرىيە كوچىسى"/>
+    <tag k="name:zh" v="于田街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="黑龙江路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="公园北街"/>
+    <tag k="name:ug" v="باغچا شىمالىي كوچىسى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="民主路دىموكراتىيە يولى"/>
+    <tag k="name:ug" v="دىموكراتىيە يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="name" v="健康路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民路"/>
+    <tag k="name:ug" v="خەلق يولى"/>
+    <tag k="name:zh" v="人民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="扬子江路"/>
+    <tag k="name:ug" v="ياڭزىجياڭ يولى"/>
+    <tag k="name:zh" v="扬子江路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="فۇكاڭ كوچىسى"/>
+    <tag k="name:ug" v="فۇكاڭ كوچىسى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="团结路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="花儿沟街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放南路 جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:ug" v="جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:zh" v="解放南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="designated"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="جەنۇبىي داۋان يولى غەربىي 2-كوچىسى"/>
+    <tag k="name:ug" v="جەنۇبىي داۋان يولى غەربىي 2-كوچىسى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="延安路南三巷 يەنئەن يولى جەنۇبىي ئۈچىنچى كوچىسى"/>
+    <tag k="name:ug" v="يەنئەن يولى جەنۇبىي ئۈچىنچى كوچىسى"/>
+    <tag k="name:zh" v="延安路南三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南湾街 نەنۋەن كوچىسى"/>
+    <tag k="name:ug" v="نەنۋەن كوچىسى"/>
+    <tag k="name:zh" v="南湾街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="团结路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南坪东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中科路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="太原南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="迎宾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="城北大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="顺意巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="迎宾巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="京疆路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="四平路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长春中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="河北东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="杭州东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="锦州东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中亚南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="长春南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="鲤鱼山北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="天津南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="天津北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="民主路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="融创街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中枢北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="西虹东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="西虹东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="东大梁西街غەربىي دوڭدالياڭ يولى"/>
+    <tag k="name:ug" v="غەربىي دوڭدالياڭ يولى"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="前进路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="碱泉一街"/>
+  </way>
+  <way>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="东后街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碱泉三街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新华北路 شىمالىي شىنخۇا يولى"/>
+    <tag k="name:ug" v="شىمالىي شىنخۇا يولى"/>
+    <tag k="name:zh" v="新华北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大湾北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大湾北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="团结路 ئىتتىپاق يولى"/>
+    <tag k="name:ug" v="ئىتتىپاق يولى"/>
+    <tag k="name:zh" v="团结路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="ئىتتىپاق يولى يان كوچىسى"/>
+    <tag k="name:ug" v="ئىتتىپاق يولى يان كوچىسى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="振兴中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="قارلىغاچلىق يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="红雁路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南湖路西二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华普巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="南湖路西三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南湖东南路二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="卫生巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="جەنۇبىي ۋوگزال يولى"/>
+    <tag k="name:ug" v="جەنۇبىي ۋوگزال يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="经一路东巷 بىرىنجى مرىدىئان يولى شەرقىي كوچىسى"/>
+    <tag k="name:ug" v="بىرىنجى مرىدىئان يولى شەرقىي كوچىسى"/>
+    <tag k="name:zh" v="经一路东巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="饮马巷"/>
+    <tag k="name:en" v="Yinma Lane"/>
+    <tag k="name:zh_pinyin" v="yin3 ma3 xian4"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新市路يىڭىشەھەر يولى"/>
+    <tag k="name:ug" v="يىڭىشەھەر يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="建中路"/>
+    <tag k="name:ug" v="جياڭجوڭ يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="河坝三巷 دەريا بويى ئۈچىنچى كوچىسى"/>
+    <tag k="name:ug" v="دەريا بويى ئۈچىنچى كوچىسى"/>
+    <tag k="name:zh" v="河坝三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="河坝巷 دەريا بويى كوچىسى"/>
+    <tag k="name:ug" v="دەريا بويى كوچىسى"/>
+    <tag k="name:zh" v="河坝巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="吐鲁番路北巷 تۇرپان يولى شىمالىي كوچىسى"/>
+    <tag k="name:ug" v="تۇرپان يولى شىمالىي كوچىسى"/>
+    <tag k="name:zh" v="吐鲁番路北巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碱泉三街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="光华路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="和平南路 تىنچلىق جەنۇبىي يولى"/>
+    <tag k="name:ug" v="تىنچلىق جەنۇبىي يولى"/>
+    <tag k="name:zh" v="和平南路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="延安路南二巷 يەنئەن يولى جەنۇبىي ئىككىنچى كوچىسى"/>
+    <tag k="name:ug" v="يەنئەن يولى جەنۇبىي ئىككىنچى كوچىسى"/>
+    <tag k="name:zh" v="延安路南二巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="جەنۇبىي داۋان يولى غەربىي 1-كوچىسى"/>
+    <tag k="name:ug" v="جەنۇبىي داۋان يولى غەربىي 1-كوچىسى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="羊毛湖路يۇڭكۆل يولى"/>
+    <tag k="name:ug" v="يۇڭكۆل يولى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="多斯鲁克路دوستلۇق يولى"/>
+    <tag k="name:ug" v="دوستلۇق يولى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="胜利路二巷"/>
+    <tag k="name:ug" v="غالىبىيەت يولى ئىككىنچى كوچىسى"/>
+    <tag k="name:zh" v="胜利路二巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="دوستلۇق يولى"/>
+    <tag k="name:ug" v="دوستلۇق يولى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="دوستلۇق يولى"/>
+    <tag k="name:ug" v="دوستلۇق يولى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="水渠巷 ئۆستەڭ كوچىسى"/>
+    <tag k="name:ug" v="ئۆستەڭ كوچىسى"/>
+    <tag k="name:zh" v="水渠巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="水塔巷 مۇنا كوچىسى"/>
+    <tag k="name:ug" v="مۇنا كوچىسى"/>
+    <tag k="name:zh" v="水塔巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="河坝前巷"/>
+    <tag k="name:ug" v="دەريا بويى ئالدى كوچىسى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="红旗幼儿园巷 قىزىل بايراق يەسلىسى كوچىسى"/>
+    <tag k="name:ug" v="قىزىل بايراق يەسلىسى كوچىسى"/>
+    <tag k="name:zh" v="红旗幼儿园巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="学苑路 ئىنىستىتۇت يولى"/>
+    <tag k="name:ug" v="ئىنىستىتۇت يولى"/>
+    <tag k="name:zh" v="学苑路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="北站公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金屯路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="银环街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="银环街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银河街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="沙坪东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金石路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="沙坪西街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="沙坪东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="阿瓦提路ئاۋات يولى"/>
+    <tag k="name:ug" v="ئاۋات يولى"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="和平南路一巷جەنۇبىي تىنچلىق يولى 1-كوچىسى"/>
+    <tag k="name:ug" v="جەنۇبىي تىنچلىق يولى 1-كوچىسى"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新市路يىڭىشەھەر يولى"/>
+    <tag k="name:ug" v="يىڭىشەھەر يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="厦门路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="厦门路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="上海路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name:zh" v="新通东街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="十七户路ئون يەتتە تۈتۈن يولى"/>
+    <tag k="name:ug" v="ئون يەتتە تۈتۈن يولى"/>
+    <tag k="name:zh" v="十七户路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="洞庭路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="洪湖路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="泰山街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="黄山街"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="翠湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="高尔夫路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="稻香南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碱沟西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙河南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="余杭路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="西虹东路"/>
+    <tag k="name:ug" v="شەرقىي شىخوڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="西虹东路"/>
+    <tag k="name:ug" v="شەرقىي شىخوڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南湖南路东二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="荣青一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="西虹东路北十五巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="荣青三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="荣青二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wenquan Lu"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="五星南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="光明路نۇرلۇق يولى"/>
+    <tag k="name:ug" v="نۇرلۇق يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北站路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="水磨沟路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="渝泉南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="X748"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="聚兴街"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="JingYi Road"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="int_name" v="JingYi Road"/>
+    <tag k="name" v="经一路 بىرىنجى مرىدىئان يولى"/>
+    <tag k="name:ug" v="بىرىنجى مرىدىئان يولى"/>
+    <tag k="name:zh" v="经一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="兰湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="宝山路"/>
+    <tag k="name:ug" v="چاڭجياڭ يولى"/>
+    <tag k="name:zh" v="宝山路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="黑龙江路"/>
+    <tag k="name:ug" v="خېيلوڭجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="嵩山街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="屯坪南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民路"/>
+    <tag k="name:ug" v="خەلق يولى"/>
+    <tag k="name:zh" v="人民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放南路 جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:ug" v="جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:zh" v="解放南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="designated"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放南路 جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:ug" v="جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:zh" v="解放南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="胜利路"/>
+    <tag k="name:ug" v="غالىبىيەت يولى"/>
+    <tag k="name:zh" v="胜利路"/>
+    <tag k="ref" v="S106"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="幸福路بەخت يولى"/>
+    <tag k="name:ug" v="بەخت يولى"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="五星南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="老满城街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="老满城街"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="燕儿窝路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="长春南路西二巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="恒达街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="常州街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路南九巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友谊路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="Heilongjiang Road"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="int_name" v="Heilongjiang Road"/>
+    <tag k="name" v="黑龙江路"/>
+    <tag k="name:ug" v="خېيلوڭجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="仓房沟北路"/>
+    <tag k="name:ug" v="تۆشۈكتام يولى"/>
+    <tag k="name:zh" v="仓房沟北路"/>
+    <tag k="ref" v="G216"/>
+    <tag k="wikidata" v="Q1892107"/>
+    <tag k="wikipedia" v="en:China National Highway 216"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="朝阳路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="顺河路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="灯笼渠街"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="文景二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="文景一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="八一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖南路"/>
+    <tag k="name:ug" v="يىكەنكۆل جەنۇبىي يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="HuangHe Road"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="int_name" v="HuangHe Road"/>
+    <tag k="name" v="黄河路"/>
+    <tag k="name:zh" v="黄河路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="河南巷 خېنەن كوچىسى"/>
+    <tag k="name:ug" v="خېنەن كوچىسى"/>
+    <tag k="name:zh" v="河南巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="北艺公园街"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="苏州西街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="苏州西街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="安宁渠路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="东后街北一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="东后街南三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中枢北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="西后街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="和平南路 جەنۇبىي تىنچلىق يولى"/>
+    <tag k="name:ug" v="جەنۇبىي تىنچلىق يولى"/>
+    <tag k="name:zh" v="和平南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="康庄西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="康庄西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="盛达西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="盛达西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北园南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="皇渠北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="康庄东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="康庄西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="十八坡南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="九沟北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="九沟北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="九沟南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="九沟北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="林泉西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="石化北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="石化南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="远景东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="开泰南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="金汇东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="盛达东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="盛达东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="大庆路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="10号路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="英阿瓦提路"/>
+    <tag k="name:ug" v="يىڭىئاۋات يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="珠江路"/>
+    <tag k="name:ug" v="جۇجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="珠江路"/>
+    <tag k="name:ug" v="جۇجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="珠江路"/>
+    <tag k="name:ug" v="جۇجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="fixme" v="oneway part"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="东风路شەرق شامىلى يولى"/>
+    <tag k="name:ug" v="شەرق شامىلى يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="东风路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="平川路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="高新街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Qingniang Lu"/>
+    <tag k="name:zh" v="青年路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="稻香北路"/>
+    <tag k="ref" v="X137"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="延安路 يەنئەن يولى"/>
+    <tag k="name:ug" v="يەنئەن يولى"/>
+    <tag k="name:zh" v="延安路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="夏玛勒巴克巷 شامالباغ كوچىسى"/>
+    <tag k="name:ug" v="شامالباغ كوچىسى"/>
+    <tag k="name:zh" v="夏玛勒巴克巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="延安路يەنئەن يولى"/>
+    <tag k="name:ug" v="يەنئەن يولى"/>
+    <tag k="name:zh" v="延安路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S106"/>
+  </way>
+  <way>
+    <tag k="boat" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="G216"/>
+    <tag k="name" v="仓房沟中路"/>
+    <tag k="name:en" v="Cangfanggou Middle Road"/>
+    <tag k="name:zh" v="仓房沟中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G216"/>
+    <tag k="wikidata" v="Q1892107"/>
+    <tag k="wikipedia" v="en:China National Highway 216"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="仓房沟北路"/>
+    <tag k="name:en" v="Cangfanggou North Road"/>
+    <tag k="name:zh" v="仓房沟北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G216"/>
+    <tag k="wikidata" v="Q1892107"/>
+    <tag k="wikipedia" v="en:China National Highway 216"/>
+  </way>
+  <way>
+    <tag k="boat" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="G216"/>
+    <tag k="name" v="仓房沟中路"/>
+    <tag k="name:en" v="Cangfanggou Middle Road"/>
+    <tag k="name:zh" v="仓房沟中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G216"/>
+    <tag k="wikidata" v="Q1892107"/>
+    <tag k="wikipedia" v="en:China National Highway 216"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="仓房沟北路"/>
+    <tag k="name:en" v="Cangfanggou North Road"/>
+    <tag k="name:zh" v="仓房沟北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G216"/>
+    <tag k="wikidata" v="Q1892107"/>
+    <tag k="wikipedia" v="en:China National Highway 216"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="胜利路一巷غالىبىيەت يولى 1-كوچىسى"/>
+    <tag k="name:ug" v="غالىبىيەت يولى 1-كوچىسى"/>
+    <tag k="name:zh" v="胜利路一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="河坝二巷 دەريا بويى ئىككىنچى كوچىسى"/>
+    <tag k="name:ug" v="دەريا بويى ئىككىنچى كوچىسى"/>
+    <tag k="name:zh" v="河坝二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南湖南路东二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="劳动街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="东坪路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中坪西街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碱沟中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="JingEr Road"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="JingEr Road"/>
+    <tag k="name" v="经二路 ئككىنجى مرىدىئان يولى"/>
+    <tag k="name:ug" v="ئككىنجى مرىدىئان يولى"/>
+    <tag k="name:zh" v="经二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="北艺公园街北一巷"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="甘河子大桥"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平川路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="河滩北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="拥军路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="北四路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南康大道"/>
+    <tag k="ref" v="X024"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新华北路 شىمالىي شىنخۇا يولى"/>
+    <tag k="name:ug" v="شىمالىي شىنخۇا يولى"/>
+    <tag k="name:zh" v="新华北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新华南路"/>
+    <tag k="name:ug" v="شىنخۇا جەنۇبىي يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友朋街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友朋街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="河北东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="东站路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="四平路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="克拉玛依西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;knowledge"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="克拉玛依西路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;knowledge"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="三屯碑路 ئۈچتاش يولى"/>
+    <tag k="name:ug" v="ئۈچتاش يولى"/>
+    <tag k="name:zh" v="三屯碑路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="长春中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="多斯鲁克路دوستلۇق يولى"/>
+    <tag k="name:ug" v="دوستلۇق يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南湖南路东四巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿苑二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿苑五巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿苑七巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南湖南路东二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿苑九巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿荫四巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南湖东路南一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿荫二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="西虹东路西二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="天平巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="钢花街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="远景东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="曙光南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南园南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="曙光南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="苜蓿沟北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="田园路"/>
+    <tag k="ref" v="X020"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古城新街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="鲤鱼山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="韶山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="岷山街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="韶山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金桥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="西流湖北路西巷"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="贺兰山街北巷"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="贺兰山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="红枫湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="六盘山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="祁连山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="六盘山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="紫阳胡中路"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="万寿山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="维泰北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="燕山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="慈湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="骊山街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="峨眉山街"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="source" v="Bing;knowledge"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丹霞山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="天柱山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="大明湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="大明湖路西巷"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="凤凰山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="维泰南路"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="天鹅湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="玄武湖路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="莲湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="峨眉山街"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="阳澄湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="云台山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="喀纳斯湖北路西二巷"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="班公湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="喀纳斯湖北路西三巷"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="青海湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丹霞山街"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="岳麓山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="岳麓山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="峨眉山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="维泰南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="维泰南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="峨眉山街"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="峨眉山街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="克拉玛依西路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing;knowledge"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="白湖路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="紫阳胡北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="香山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="云台山街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="紫阳胡北路"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="千岛湖"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="贺兰山街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="万寿山街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="吕梁山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="阿里山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银川路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="int_name" v="Yangzijiang Road"/>
+    <tag k="name" v="扬子江路"/>
+    <tag k="name:ug" v="ياڭزىجياڭ يولى"/>
+    <tag k="name:zh" v="扬子江路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="长江路"/>
+    <tag k="name:ug" v="چاڭجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="会展北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="渠水街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="翠竹路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="众欣街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gongyuan Bei Jie"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="团结路 ئىتتىپاق يولى"/>
+    <tag k="name:ug" v="ئىتتىپاق يولى"/>
+    <tag k="name:zh" v="团结路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="洛宾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="新油路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="顺河路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="钢新路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="诚信街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="魏户滩路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="千秋街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宾乐一街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="启蒙路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宾乐三街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="崇文街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宾乐二街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="晨光路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新村街"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿洲街南十巷"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="天津北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="北一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="辅道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="碱泉街"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="建国路دۆلەت قۇرۇش يولى"/>
+    <tag k="name:ug" v="دۆلەت قۇرۇش يولى"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="轮台东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="米东北路"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="ref" v="G216;S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="碱泉二街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新华南路"/>
+    <tag k="name:ug" v="شىنخۇا جەنۇبي يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="燕儿窝路"/>
+    <tag k="ref" v="S106"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="澎湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="兴庆湖路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="维泰南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="维泰北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="喀纳斯湖北路西一巷"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="月湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="华山街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="洪湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="喀纳斯湖北路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="峨眉山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="新医路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐-阿乐惠"/>
+    <tag k="ref" v="S103"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="月湖路东一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="千岛湖西二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="千岛路西一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="黄山街南一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="嘉兴街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="育新巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="天津北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="九沟北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="九沟南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="十八坡北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="康庄东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="康庄西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="开泰北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="石化中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="石化中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="石化北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="石化南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="福州东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="福州西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="远景西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="金汇西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙河中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙河中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="龙河南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="稻香中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="博格达路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="博格达路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="轩园巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="大庆路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山中路"/>
+    <tag k="name:en" v="Yashan Middle Road"/>
+    <tag k="name:zh" v="雅山中路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山南路"/>
+    <tag k="name:en" v="Yashan South Road"/>
+    <tag k="name:zh" v="雅山南路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312;G314"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山南路"/>
+    <tag k="name:en" v="Yashan South Road"/>
+    <tag k="name:zh" v="雅山南路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312;G314"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山南路"/>
+    <tag k="name:en" v="Yashan South Road"/>
+    <tag k="name:zh" v="雅山南路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312;G314"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山中路"/>
+    <tag k="name:en" v="Yashan Middle Road"/>
+    <tag k="name:zh" v="雅山中路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="天山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山南路"/>
+    <tag k="name:en" v="Yashan South Road"/>
+    <tag k="name:zh" v="雅山南路"/>
+    <tag k="note" v="trunk road superceded by expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312;G314"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="天山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南峡路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="新医路"/>
+    <tag k="note" v="Description:"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南江路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南华路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南梁路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南溪南路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南大路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="城北大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路南十巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="新民东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="犁铧街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="新民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="杭州西街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Qingnian Road"/>
+    <tag k="name:zh" v="青年路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="光明路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="黑龙江路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐市 Xinhua Lu North"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐市 Xinhua Lu North"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="犁铧街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放路"/>
+    <tag k="name:ug" v="جەنۇبىي ئازادلىق يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="人民路"/>
+    <tag k="name:ug" v="خەلق يولى"/>
+    <tag k="name:zh" v="人民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="胜利路 غالىبىيەت يولى"/>
+    <tag k="name:ug" v="غالىبىيەت يولى"/>
+    <tag k="name:zh" v="胜利路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S106"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="延安路 يەنئەن يولى"/>
+    <tag k="name:ug" v="يەنئەن يولى"/>
+    <tag k="name:zh" v="延安路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S106"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="饮马巷"/>
+    <tag k="name:en" v="Yinma Lane"/>
+    <tag k="name:zh_pinyin" v="yin3 ma3 xian4"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中山路جوڭشەن يولى"/>
+    <tag k="name:ug" v="جوڭشەن يولى"/>
+    <tag k="name:zh" v="中山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="爱国巷"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="龙泉街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="二道桥民俗风味一条街دۆڭكۆۋرۈك مىللىي يىمەك-ئىچمەك كوچىسى"/>
+    <tag k="name:ug" v="دۆڭكۆۋرۈك مىللىي يىمەك-ئىچمەك كوچىسى"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新华南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新华南路جەنۇبىي شىنخۇا يولى"/>
+    <tag k="name:ug" v="جەنۇبىي شىنخۇا يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="解放南路 جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:ug" v="جەنۇبىي ئازادلىق يولى"/>
+    <tag k="name:zh" v="解放南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="designated"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银河巷سامانيولى كوچىسى"/>
+    <tag k="name:ug" v="سامانيولى كوچىسى"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="太原北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="厦门路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="广州路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wenquan Lu"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wenquan Lu"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="南湖东路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="南湖西路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="南湖西路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="南湖东路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="河北东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长春中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="长春中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="FIXME" v="direction not correct"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="河北东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="稻香中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="轮台西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="轮台西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="三屯碑路 ئۈچتاش يولى"/>
+    <tag k="name:ug" v="ئۈچتاش يولى"/>
+    <tag k="name:zh" v="三屯碑路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大湾南路 جەنۇبىي داۋان يولى"/>
+    <tag k="name:ug" v="جەنۇبىي داۋان يولى"/>
+    <tag k="name:zh" v="大湾南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大湾北路 شىمالىي داۋان يولى"/>
+    <tag k="name:ug" v="شىمالىي داۋان يولى"/>
+    <tag k="name:zh" v="大湾北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="大湾南路 جەنۇبىي داۋان يولى"/>
+    <tag k="name:ug" v="جەنۇبىي داۋان يولى"/>
+    <tag k="name:zh" v="大湾南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="燕儿窝路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="燕儿窝路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="燕儿窝路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="燕儿窝路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="洛宾路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="洛宾路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="洛宾南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古城新街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古榆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="学府路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="教育路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="盐湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="盐湖一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="盐湖三路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="天山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="天山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="天山大道"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南府路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="南梁路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="رېخات 5-كوچىسى"/>
+    <tag k="name:ug" v="رېخات 5-كوچىسى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南站前路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="观山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南丝路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="绿盛路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="迎春一街"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="渝泉北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="X748"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="渝泉北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="X748"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="渝泉南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="X748"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="聚安路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="绿康路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="康定街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="聚缘路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="巴州路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="师大西路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南康大道"/>
+    <tag k="ref" v="X024"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="长春南路西一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华园巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="永州十巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="长春南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长春中路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="通安南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="通安南路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="畅扬路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="南渠路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="cycleway:left" v="none"/>
+    <tag k="cycleway:right" v="none"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="桂林路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="馨香街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="上沙河一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="新医路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="新医路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="新医路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="新医路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="头屯河公路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="东坪路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="平安街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="新风路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="柯坪路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="居二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="屯坪北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金环路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银苑街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金康路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金坪路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银泉街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银羽街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银华街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银星街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="钢艺路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="铁银路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="酒花路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="乌昌公路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="乌昌公路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="乌伊公路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="乌伊公路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G312"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="黑龙江路"/>
+    <tag k="name:ug" v="خېيلوڭجياڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="恒顺街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="恒祥街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="嵩山街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="八家户经四路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="盛海路"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="文光路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="府南巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="双创巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="鄱阳路"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="丰和街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="安居南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="华祥七巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖北路"/>
+    <tag k="name:ug" v="يىكەنكۆل جەنۇبىي يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="犁铧街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新民东街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="紫阳胡中路"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="紫阳胡北路"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="翠藤街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="曲扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="青藤街"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北辰一街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北辰一街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北辰六街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北辰六街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古牧地西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古牧地西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="学思路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="屯坪北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="沙坪东街"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="沙坪东街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银星街"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银星街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="纬一路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="贵州路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="贵州路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="西珹街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="西珹街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="福泉路"/>
+    <tag k="ref" v="X479"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="雅山北路"/>
+    <tag k="name:en" v="Yashan North Road"/>
+    <tag k="name:zh" v="雅山北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="正扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="正扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="曲扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="畅扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="畅扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="启航西街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="启航四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="清宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="清宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="汀园北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="汀园北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="康安路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="康安路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="康宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="康宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="清宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="清宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="学思路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="宁航三路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宁航四路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宁航四路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰二街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰二街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="宁航三路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰三街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰三街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北辰三街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北辰三街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="宁航三路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北辰二街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北辰二街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宁航二路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宁航二路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="宁航一路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="宁航一路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰四街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="学清路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰三街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰三街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="安宁渠路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银星街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银星街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="金环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="金山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="银星街"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐-阿乐惠"/>
+    <tag k="ref" v="S103"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="乌鲁木齐-阿乐惠"/>
+    <tag k="ref" v="S103"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="红雁路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="红雁路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="红雁路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="高尔夫路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="高尔夫路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="高尔夫路"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="会展北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="多斯鲁克路دوستلۇق يولى"/>
+    <tag k="name:ug" v="دوستلۇق يولى"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="观园路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="4"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="4"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="二环路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="观园路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="万寿山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="万寿山街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="万寿山街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="万寿山街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="维泰南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="兴乐三巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="西虹东路"/>
+    <tag k="name:ug" v="شەرقىي شىخوڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="安居南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="西虹东路"/>
+    <tag k="name:ug" v="شەرقىي شىخوڭ يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="宝山路"/>
+    <tag k="name:ug" v="چاڭجياڭ يولى"/>
+    <tag k="name:zh" v="宝山路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="新民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="新民路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="十七户路ئون يەتتە تۈتۈن يولى"/>
+    <tag k="name:ug" v="ئون يەتتە تۈتۈن يولى"/>
+    <tag k="name:zh" v="十七户路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="青藤街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金桥路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="note" v="not a trunk road - just a local dual carriage way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="九华山东街"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing;Mapbox"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="灵香山大桥"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="健富路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="健康路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="屯坪南路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="酒花路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="轮台西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="府前中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="轮台东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="轮台西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南康大道"/>
+    <tag k="ref" v="X024"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南水路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南丝路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="南丝路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="经二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="文达路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="文达路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="文昌路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="苜蓿沟北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南江路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="南江路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南庄大道"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="拥军路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="振兴北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="轮台西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="轮台西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="友谊路南十一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路南十巷"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路南十二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路南九巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友朋街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友朋街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="中亚南路"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友朋街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友朋街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="迎宾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="迎宾路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="友谊路南十一巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="友谊路南八巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="安宁渠路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="安宁渠路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="友谊路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="太原北路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="喀什西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="太原北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="河北东路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京中路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="河南东路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="天津北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="鲤鱼山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="鲤鱼山路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银川路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银川路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="凤凰山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="维泰南路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="阿里山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="西湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="金桥路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="喀纳斯湖北路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="花儿沟街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="花儿沟街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南湾街 نەنۋەن كوچىسى"/>
+    <tag k="name:ug" v="نەنۋەن كوچىسى"/>
+    <tag k="name:zh" v="南湾街"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="ئىتتىپاق يولى يان كوچىسى"/>
+    <tag k="name:ug" v="ئىتتىپاق يولى يان كوچىسى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="boardwalk"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="name" v="yangpu test"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH4"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="河滩快速路"/>
+    <tag k="name:en" v="Hetan Expressway"/>
+    <tag k="name:ug" v="ساي يۇقىرى سۈرئەتلىك يولى"/>
+    <tag k="name:zh" v="河滩快速路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南水路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="振兴中路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="米东北路"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="ref" v="S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="康庄西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="米东北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G216;S111"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="东外环 شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:ug" v="شەرقىي تاشقىي ئايلانما"/>
+    <tag k="name:zh" v="东外环"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="爱国巷"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="name" v="玉泉西街"/>
+    <tag k="noref" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="150乡道"/>
+    <tag k="ref" v="Y150"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="东坪路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="东坪路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="居二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="居二路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="朝阳路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="乌昌公路"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="喀纳斯湖北路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="汀园北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="学思路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="汀园北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="康安路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="康安路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北京北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="学思路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="学思路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="康宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="康宁路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="学思路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰六街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="北辰六街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="北辰六街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="曲扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="文光路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="曲扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="银藤街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="曲扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="曲扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="翠藤街"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古牧地西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="净水路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古牧地西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="清扬路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="古牧地西路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宁波街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="长春北路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="宁波街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="宁波街"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="宁波街"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖南路"/>
+    <tag k="name:ug" v="يىكەنكۆل جەنۇبىي يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南湖北路"/>
+    <tag k="name:ug" v="يىكەنكۆل جەنۇبىي يولى"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="南湖东路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="南湖东路"/>
+    <tag k="note" v="Tip: use layer=* filter in JOSM"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="奇台路"/>
+    <tag k="name:ug" v="گۇچۇڭ يولى"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="爱国巷"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="三屯碑路北巷 ئۈچتاش يولى شىمالىي كوچىسى"/>
+    <tag k="name:ug" v="ئۈچتاش يولى شىمالىي كوچىسى"/>
+    <tag k="name:zh" v="三屯碑路北巷"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="WuYi Road"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="WuYi Road"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="五一路 بىرىنچى ماي يولى"/>
+    <tag k="name:ug" v="بىرىنچى ماي يولى"/>
+    <tag k="name:zh" v="五一路"/>
+  </way>
+  <way>
+    <tag k="alt_name" v="WuYi Road"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="WuYi Road"/>
+    <tag k="name" v="五一路 بىرىنچى ماي يولى"/>
+    <tag k="name:ug" v="بىرىنچى ماي يولى"/>
+    <tag k="name:zh" v="五一路"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="众欣街"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="兰湖路"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="兰湖路"/>
+  </way>
+  <way>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="1号路"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="天鹅湖路"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="云台山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="云台山街"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="knowledge;Bing"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="教育路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="文昌路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古榆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古榆路"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="古榆路"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南丝路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="南丝路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="南丝路"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="南水路"/>
+    <tag k="ref" v="X023"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="顺河路东二巷"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="highway" v="primary"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="乌鲁木齐-南山旅游基地"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>
