@@ -1,3 +1,4 @@
+import json
 import os
 import re
 
@@ -29,6 +30,9 @@ def main():
     with open('road_names.txt', 'w', encoding='utf8') as f:
         for road_name in road_names:
             f.write(road_name + '\n')
+
+    with open('road_names.json', 'w', encoding='utf8') as f:
+        json.dump(list(road_names), f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
