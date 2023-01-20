@@ -4,11 +4,11 @@ import re
 
 
 def main():
-    file_names = os.listdir()
+    file_names = os.listdir('osm')
     xml_file_names = []
     for file_name in file_names:
         if file_name.split('.')[-1] == 'xml':
-            xml_file_names.append(file_name)
+            xml_file_names.append('osm\\'+file_name)
 
     road_names = set()
     for file_name in xml_file_names:

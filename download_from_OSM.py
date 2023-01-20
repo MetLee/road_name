@@ -55,7 +55,7 @@ out tags noids;
         data = data.format(3600000000+relation_id)
         s = r.session()
         _ = s.post(api, data=data).text
-        with open(f'{city_name}.xml', 'w', encoding='utf8') as f:
+        with open(f'osm\\{city_name}.xml', 'w', encoding='utf8') as f:
             f.write(_)
 
 
