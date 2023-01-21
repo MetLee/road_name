@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="title" content="随机道路名称生成器">
+    <title>随机道路名称生成器</title>
+</head>
+
+<h1>随机道路名称生成器</h1>
+<button id="1" onclick="gen1()">生成一个</button>
+<button id="10" onclick="gen10()">生成十个</button>
+<div class="result"></div>
+
+
+<script src="jquery-3.6.3.min.js"></script>
+<script>
+    $(() => {
+        $.getJSON('../road_names.json', (names) => {
+            localStorage.setItem('names', JSON.stringify(names));
+        });
+    });
+
+    function _gen1(l) {
+        let names = l;
+        if (names.length == 0) {
+            return '';
+        } else {
+            let name = names[Math.floor(Math.random() * names.length)];
+            return name;
+        };
+    };
+
+    function _gen10(l) {
+        let names = l;
+        if (names.length == 0) {
+            return '';
+        } else {
+            let rst = [];
+            for (i = 0; i < 10; i++) {
+                rst.push(_gen1(names));
+            };
+            return rst;
+        };
+    };
+
+    function gen1() {
+        let data = JSON.parse(localStorage.getItem('names'));
+        let name = _gen1(data);
+
+        $('div p').remove();
+
+        let root = $('div');
+        let name_html = $(`<p>${name}</p>`);
+        root.append(name_html);
+    };
+
+    function gen10() {
+        let data = JSON.parse(localStorage.getItem('names'));
+        let names = _gen10(data);
+
+        $('div p').remove();
+
+        let root = $('div');
+        names.forEach((name) => {
+            let name_html = $(`<p>${name}</p>`);
+            root.append(name_html);
+        });
+    };
+</script>
+
+</html>
