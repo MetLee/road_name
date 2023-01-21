@@ -16,7 +16,7 @@
 <script src="jquery-3.6.3.min.js"></script>
 <script>
     $(() => {
-        $.getJSON('../road_names.json', (names) => {
+        $.getJSON('road_names.json', (names) => {
             localStorage.setItem('names', JSON.stringify(names));
         });
     });

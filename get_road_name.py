@@ -37,7 +37,7 @@ def main():
         for road_name in road_names:
             f.write(road_name + '\n')
 
-    with open('road_names.json', 'w', encoding='utf8') as f:
+    with open('docs\\road_names.json', 'w', encoding='utf8') as f:
         json.dump(list(road_names), f, ensure_ascii=False)
 
 
